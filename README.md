@@ -1,3 +1,7 @@
-# [![C](https://skillicons.dev/icons?i=C)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+</p>
 
-#### Implementations of algorithms in the C Language
+<h1 align="center">Implementations of Algorithms in the C Language</h1>
